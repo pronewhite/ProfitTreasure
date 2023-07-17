@@ -1,0 +1,2 @@
+# ProfitTreasure
+这是一个分布式的基于互联网的springboot项目，前后端分离，采用微服务架构模式
