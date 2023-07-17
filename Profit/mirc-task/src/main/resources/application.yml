@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: mirc-task
+
+dubbo:
+  registry:
+    address: zookeeper://localhost:2181
+  scan:
+    base-packages: com.hitsz.task
+  consumer:
+    check: false
+    timeout: 50000
+    retries: 0
