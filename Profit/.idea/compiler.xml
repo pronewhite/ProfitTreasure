@@ -22,7 +22,7 @@
       <module name="mirc-api" options="-parameters" />
       <module name="mirc-common" options="-parameters" />
       <module name="mirc-dataservice" options="-parameters" />
-      <module name="mirc-parent" options="" />
+      <module name="mirc-parent" options="-parameters" />
       <module name="mirc-task" options="-parameters" />
       <module name="mirc-web" options="-parameters" />
     </option>
